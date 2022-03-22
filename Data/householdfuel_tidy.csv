@@ -1,0 +1,391 @@
+YEAR,LOCATION,ESTIMATE,ERROR,FUEL_TYPE
+2010-01-01,Texas,8738664,20291,Total
+2010-01-01,Texas,3315579,23789,Utility Gas
+2010-01-01,Texas,326201,9460,Bottled/tank/LP Gas
+2010-01-01,Texas,4989013,26256,Electricity
+2010-01-01,Texas,10062,1357,Fuel oil/kerosene/etc.
+2010-01-01,Texas,311,254,Coke/Coal
+2010-01-01,Texas,41677,3378,Wood
+2010-01-01,Texas,332,220,Solar
+2010-01-01,Texas,17206,2520,Other fuel
+2010-01-01,Texas,38283,3455,No fuel
+2010-01-01,Dallas,447680,6310,Total
+2010-01-01,Dallas,154005,5370,Utility Gas
+2010-01-01,Dallas,2341,695,Bottled/tank/LP Gas
+2010-01-01,Dallas,289648,7014,Electricity
+2010-01-01,Dallas,273,292,Fuel oil/kerosene/etc.
+2010-01-01,Dallas,0,294,Coke/Coal
+2010-01-01,Dallas,160,156,Wood
+2010-01-01,Dallas,44,72,Solar
+2010-01-01,Dallas,143,139,Other fuel
+2010-01-01,Dallas,1066,407,No fuel
+2010-01-01,Houston,762309,6535,Total
+2010-01-01,Houston,294865,6512,Utility Gas
+2010-01-01,Houston,4283,880,Bottled/tank/LP Gas
+2010-01-01,Houston,457360,7992,Electricity
+2010-01-01,Houston,162,163,Fuel oil/kerosene/etc.
+2010-01-01,Houston,85,141,Coke/Coal
+2010-01-01,Houston,128,154,Wood
+2010-01-01,Houston,0,294,Solar
+2010-01-01,Houston,863,510,Other fuel
+2010-01-01,Houston,4563,1322,No fuel
+2011-01-01,Texas,8850370,21114,Total
+2011-01-01,Texas,3298684,23006,Utility Gas
+2011-01-01,Texas,306275,9945,Bottled/tank/LP Gas
+2011-01-01,Texas,5144371,27283,Electricity
+2011-01-01,Texas,10754,1578,Fuel oil/kerosene/etc.
+2011-01-01,Texas,971,576,Coke/Coal
+2011-01-01,Texas,37767,2838,Wood
+2011-01-01,Texas,1900,632,Solar
+2011-01-01,Texas,15650,2373,Other fuel
+2011-01-01,Texas,33998,3210,No fuel
+2011-01-01,Dallas,455371,6913,Total
+2011-01-01,Dallas,150745,4654,Utility Gas
+2011-01-01,Dallas,2182,672,Bottled/tank/LP Gas
+2011-01-01,Dallas,300655,6247,Electricity
+2011-01-01,Dallas,420,344,Fuel oil/kerosene/etc.
+2011-01-01,Dallas,46,74,Coke/Coal
+2011-01-01,Dallas,93,93,Wood
+2011-01-01,Dallas,36,60,Solar
+2011-01-01,Dallas,56,69,Other fuel
+2011-01-01,Dallas,1138,520,No fuel
+2011-01-01,Houston,774630,7511,Total
+2011-01-01,Houston,283243,7587,Utility Gas
+2011-01-01,Houston,2888,767,Bottled/tank/LP Gas
+2011-01-01,Houston,483288,8089,Electricity
+2011-01-01,Houston,505,289,Fuel oil/kerosene/etc.
+2011-01-01,Houston,169,222,Coke/Coal
+2011-01-01,Houston,128,151,Wood
+2011-01-01,Houston,0,218,Solar
+2011-01-01,Houston,921,548,Other fuel
+2011-01-01,Houston,3488,845,No fuel
+2012-01-01,Texas,8970959,21541,Total
+2012-01-01,Texas,3323361,20041,Utility Gas
+2012-01-01,Texas,303869,8201,Bottled/tank/LP Gas
+2012-01-01,Texas,5240726,22189,Electricity
+2012-01-01,Texas,11720,2326,Fuel oil/kerosene/etc.
+2012-01-01,Texas,368,255,Coke/Coal
+2012-01-01,Texas,39054,2969,Wood
+2012-01-01,Texas,978,491,Solar
+2012-01-01,Texas,12505,1789,Other fuel
+2012-01-01,Texas,38378,3050,No fuel
+2012-01-01,Dallas,463719,5838,Total
+2012-01-01,Dallas,156749,4992,Utility Gas
+2012-01-01,Dallas,2850,793,Bottled/tank/LP Gas
+2012-01-01,Dallas,301495,5553,Electricity
+2012-01-01,Dallas,689,549,Fuel oil/kerosene/etc.
+2012-01-01,Dallas,0,206,Coke/Coal
+2012-01-01,Dallas,91,108,Wood
+2012-01-01,Dallas,0,206,Solar
+2012-01-01,Dallas,109,133,Other fuel
+2012-01-01,Dallas,1736,620,No fuel
+2012-01-01,Houston,780364,9306,Total
+2012-01-01,Houston,286279,8229,Utility Gas
+2012-01-01,Houston,3277,776,Bottled/tank/LP Gas
+2012-01-01,Houston,484878,9558,Electricity
+2012-01-01,Houston,211,177,Fuel oil/kerosene/etc.
+2012-01-01,Houston,0,206,Coke/Coal
+2012-01-01,Houston,936,535,Wood
+2012-01-01,Houston,120,147,Solar
+2012-01-01,Houston,271,154,Other fuel
+2012-01-01,Houston,4392,987,No fuel
+2013-01-01,Texas,9110853,20640,Total
+2013-01-01,Texas,3320609,25152,Utility Gas
+2013-01-01,Texas,293618,7693,Bottled/tank/LP Gas
+2013-01-01,Texas,5387263,27180,Electricity
+2013-01-01,Texas,9731,1862,Fuel oil/kerosene/etc.
+2013-01-01,Texas,193,171,Coke/Coal
+2013-01-01,Texas,39408,3475,Wood
+2013-01-01,Texas,1829,509,Solar
+2013-01-01,Texas,13553,1789,Other fuel
+2013-01-01,Texas,44649,3243,No fuel
+2013-01-01,Dallas,476733,6946,Total
+2013-01-01,Dallas,158173,5434,Utility Gas
+2013-01-01,Dallas,2280,662,Bottled/tank/LP Gas
+2013-01-01,Dallas,313551,6595,Electricity
+2013-01-01,Dallas,170,203,Fuel oil/kerosene/etc.
+2013-01-01,Dallas,40,66,Coke/Coal
+2013-01-01,Dallas,174,206,Wood
+2013-01-01,Dallas,178,197,Solar
+2013-01-01,Dallas,422,282,Other fuel
+2013-01-01,Dallas,1745,466,No fuel
+2013-01-01,Houston,815266,7582,Total
+2013-01-01,Houston,291344,8755,Utility Gas
+2013-01-01,Houston,4406,947,Bottled/tank/LP Gas
+2013-01-01,Houston,511257,8516,Electricity
+2013-01-01,Houston,982,702,Fuel oil/kerosene/etc.
+2013-01-01,Houston,0,213,Coke/Coal
+2013-01-01,Houston,333,362,Wood
+2013-01-01,Houston,181,213,Solar
+2013-01-01,Houston,374,236,Other fuel
+2013-01-01,Houston,6389,1227,No fuel
+2014-01-01,Texas,9277197,22719,Total
+2014-01-01,Texas,3418610,20315,Utility Gas
+2014-01-01,Texas,293663,7680,Bottled/tank/LP Gas
+2014-01-01,Texas,5460578,24885,Electricity
+2014-01-01,Texas,10582,1677,Fuel oil/kerosene/etc.
+2014-01-01,Texas,1089,556,Coke/Coal
+2014-01-01,Texas,34848,2411,Wood
+2014-01-01,Texas,1799,501,Solar
+2014-01-01,Texas,15797,2223,Other fuel
+2014-01-01,Texas,40231,3014,No fuel
+2014-01-01,Dallas,484335,6075,Total
+2014-01-01,Dallas,161261,5011,Utility Gas
+2014-01-01,Dallas,2462,549,Bottled/tank/LP Gas
+2014-01-01,Dallas,317259,6073,Electricity
+2014-01-01,Dallas,229,251,Fuel oil/kerosene/etc.
+2014-01-01,Dallas,163,212,Coke/Coal
+2014-01-01,Dallas,317,230,Wood
+2014-01-01,Dallas,82,95,Solar
+2014-01-01,Dallas,737,499,Other fuel
+2014-01-01,Dallas,1825,603,No fuel
+2014-01-01,Houston,834204,9001,Total
+2014-01-01,Houston,298361,6630,Utility Gas
+2014-01-01,Houston,3891,784,Bottled/tank/LP Gas
+2014-01-01,Houston,526611,9599,Electricity
+2014-01-01,Houston,320,226,Fuel oil/kerosene/etc.
+2014-01-01,Houston,43,72,Coke/Coal
+2014-01-01,Houston,356,336,Wood
+2014-01-01,Houston,288,253,Solar
+2014-01-01,Houston,557,336,Other fuel
+2014-01-01,Houston,3777,767,No fuel
+2015-01-01,Texas,9421412,21122,Total
+2015-01-01,Texas,3390924,26604,Utility Gas
+2015-01-01,Texas,293458,7956,Bottled/tank/LP Gas
+2015-01-01,Texas,5637227,26197,Electricity
+2015-01-01,Texas,9351,1506,Fuel oil/kerosene/etc.
+2015-01-01,Texas,620,344,Coke/Coal
+2015-01-01,Texas,35322,2753,Wood
+2015-01-01,Texas,2021,623,Solar
+2015-01-01,Texas,12897,1642,Other fuel
+2015-01-01,Texas,39592,2912,No fuel
+2015-01-01,Dallas,495362,5725,Total
+2015-01-01,Dallas,162680,4531,Utility Gas
+2015-01-01,Dallas,3199,858,Bottled/tank/LP Gas
+2015-01-01,Dallas,326179,6668,Electricity
+2015-01-01,Dallas,629,541,Fuel oil/kerosene/etc.
+2015-01-01,Dallas,0,214,Coke/Coal
+2015-01-01,Dallas,182,155,Wood
+2015-01-01,Dallas,199,186,Solar
+2015-01-01,Dallas,259,210,Other fuel
+2015-01-01,Dallas,2035,635,No fuel
+2015-01-01,Houston,849974,7977,Total
+2015-01-01,Houston,285657,7524,Utility Gas
+2015-01-01,Houston,5562,1147,Bottled/tank/LP Gas
+2015-01-01,Houston,553271,9857,Electricity
+2015-01-01,Houston,731,462,Fuel oil/kerosene/etc.
+2015-01-01,Houston,0,214,Coke/Coal
+2015-01-01,Houston,360,302,Wood
+2015-01-01,Houston,0,214,Solar
+2015-01-01,Houston,452,275,Other fuel
+2015-01-01,Houston,3941,849,No fuel
+2016-01-01,Texas,9535612,20125,Total
+2016-01-01,Texas,3407001,22035,Utility Gas
+2016-01-01,Texas,273637,8147,Bottled/tank/LP Gas
+2016-01-01,Texas,5754927,23434,Electricity
+2016-01-01,Texas,8943,1765,Fuel oil/kerosene/etc.
+2016-01-01,Texas,1272,681,Coke/Coal
+2016-01-01,Texas,32735,3129,Wood
+2016-01-01,Texas,4028,1021,Solar
+2016-01-01,Texas,14285,1751,Other fuel
+2016-01-01,Texas,38784,2857,No fuel
+2016-01-01,Houston,867915,8198,Total
+2016-01-01,Houston,295989,7545,Utility Gas
+2016-01-01,Houston,4827,927,Bottled/tank/LP Gas
+2016-01-01,Houston,559459,8218,Electricity
+2016-01-01,Houston,975,621,Fuel oil/kerosene/etc.
+2016-01-01,Houston,0,220,Coke/Coal
+2016-01-01,Houston,140,166,Wood
+2016-01-01,Houston,251,259,Solar
+2016-01-01,Houston,533,418,Other fuel
+2016-01-01,Houston,5741,1352,No fuel
+2016-01-01,Dallas,514588,5379,Total
+2016-01-01,Dallas,168629,4767,Utility Gas
+2016-01-01,Dallas,2748,692,Bottled/tank/LP Gas
+2016-01-01,Dallas,340535,5808,Electricity
+2016-01-01,Dallas,260,298,Fuel oil/kerosene/etc.
+2016-01-01,Dallas,90,150,Coke/Coal
+2016-01-01,Dallas,95,123,Wood
+2016-01-01,Dallas,78,91,Solar
+2016-01-01,Dallas,321,220,Other fuel
+2016-01-01,Dallas,1832,533,No fuel
+2017-01-01,Texas,9623874,22217,Total
+2017-01-01,Texas,3422516,26520,Utility Gas
+2017-01-01,Texas,281245,9102,Bottled/tank/LP Gas
+2017-01-01,Texas,5824591,32137,Electricity
+2017-01-01,Texas,9195,1479,Fuel oil/kerosene/etc.
+2017-01-01,Texas,642,333,Coke/Coal
+2017-01-01,Texas,28835,2627,Wood
+2017-01-01,Texas,5484,1011,Solar
+2017-01-01,Texas,12979,1749,Other fuel
+2017-01-01,Texas,38387,3000,No fuel
+2017-01-01,Dallas,513084,5613,Total
+2017-01-01,Dallas,164291,5237,Utility Gas
+2017-01-01,Dallas,3247,688,Bottled/tank/LP Gas
+2017-01-01,Dallas,343031,7048,Electricity
+2017-01-01,Dallas,496,368,Fuel oil/kerosene/etc.
+2017-01-01,Dallas,0,225,Coke/Coal
+2017-01-01,Dallas,182,240,Wood
+2017-01-01,Dallas,326,279,Solar
+2017-01-01,Dallas,428,238,Other fuel
+2017-01-01,Dallas,1083,350,No fuel
+2017-01-01,Houston,837686,10337,Total
+2017-01-01,Houston,286146,8532,Utility Gas
+2017-01-01,Houston,4889,1143,Bottled/tank/LP Gas
+2017-01-01,Houston,541120,9959,Electricity
+2017-01-01,Houston,410,292,Fuel oil/kerosene/etc.
+2017-01-01,Houston,51,85,Coke/Coal
+2017-01-01,Houston,95,112,Wood
+2017-01-01,Houston,239,171,Solar
+2017-01-01,Houston,332,259,Other fuel
+2017-01-01,Houston,4404,976,No fuel
+2018-01-01,Texas,9776083,21679,Total
+2018-01-01,Texas,3472727,23945,Utility Gas
+2018-01-01,Texas,276111,8115,Bottled/tank/LP Gas
+2018-01-01,Texas,5927999,27333,Electricity
+2018-01-01,Texas,8778,1654,Fuel oil/kerosene/etc.
+2018-01-01,Texas,1349,570,Coke/Coal
+2018-01-01,Texas,27474,2266,Wood
+2018-01-01,Texas,7922,1525,Solar
+2018-01-01,Texas,13405,2022,Other fuel
+2018-01-01,Texas,40318,2813,No fuel
+2018-01-01,Dallas,521198,6967,Total
+2018-01-01,Dallas,166411,4068,Utility Gas
+2018-01-01,Dallas,2293,718,Bottled/tank/LP Gas
+2018-01-01,Dallas,348624,6418,Electricity
+2018-01-01,Dallas,342,415,Fuel oil/kerosene/etc.
+2018-01-01,Dallas,0,228,Coke/Coal
+2018-01-01,Dallas,155,152,Wood
+2018-01-01,Dallas,363,234,Solar
+2018-01-01,Dallas,312,251,Other fuel
+2018-01-01,Dallas,2698,686,No fuel
+2018-01-01,Houston,849105,8526,Total
+2018-01-01,Houston,284620,7915,Utility Gas
+2018-01-01,Houston,3383,926,Bottled/tank/LP Gas
+2018-01-01,Houston,555341,10061,Electricity
+2018-01-01,Houston,478,320,Fuel oil/kerosene/etc.
+2018-01-01,Houston,37,61,Coke/Coal
+2018-01-01,Houston,431,505,Wood
+2018-01-01,Houston,402,359,Solar
+2018-01-01,Houston,834,461,Other fuel
+2018-01-01,Houston,3579,953,No fuel
+2019-01-01,Texas,9985126,25440,Total
+2019-01-01,Texas,3499082,29724,Utility Gas
+2019-01-01,Texas,283573,10556,Bottled/tank/LP Gas
+2019-01-01,Texas,6101773,32107,Electricity
+2019-01-01,Texas,6632,1336,Fuel oil/kerosene/etc.
+2019-01-01,Texas,1333,697,Coke/Coal
+2019-01-01,Texas,28184,2880,Wood
+2019-01-01,Texas,11312,2353,Solar
+2019-01-01,Texas,9955,1512,Other fuel
+2019-01-01,Texas,43282,3854,No fuel
+2019-01-01,Dallas,518998,7150,Total
+2019-01-01,Dallas,167738,5596,Utility Gas
+2019-01-01,Dallas,2294,641,Bottled/tank/LP Gas
+2019-01-01,Dallas,344758,6627,Electricity
+2019-01-01,Dallas,571,456,Fuel oil/kerosene/etc.
+2019-01-01,Dallas,0,234,Coke/Coal
+2019-01-01,Dallas,147,188,Wood
+2019-01-01,Dallas,648,395,Solar
+2019-01-01,Dallas,658,471,Other fuel
+2019-01-01,Dallas,2184,716,No fuel
+2019-01-01,Houston,876504,9872,Total
+2019-01-01,Houston,280019,8016,Utility Gas
+2019-01-01,Houston,4062,866,Bottled/tank/LP Gas
+2019-01-01,Houston,586158,10944,Electricity
+2019-01-01,Houston,155,215,Fuel oil/kerosene/etc.
+2019-01-01,Houston,87,144,Coke/Coal
+2019-01-01,Houston,50,83,Wood
+2019-01-01,Houston,320,314,Solar
+2019-01-01,Houston,231,214,Other fuel
+2019-01-01,Houston,5422,1599,No fuel
+2011-01-01,Austin,331582,5920,Total
+2011-01-01,Austin,155022,5025,Utility Gas
+2011-01-01,Austin,4070,966,Bottled/tank/LP Gas
+2011-01-01,Austin,170927,6098,Electricity
+2011-01-01,Austin,126,202,Fuel oil/kerosene/etc.
+2011-01-01,Austin,0,218,Coke/Coal
+2011-01-01,Austin,432,297,Wood
+2011-01-01,Austin,126,155,Solar
+2011-01-01,Austin,314,266,Other fuel
+2011-01-01,Austin,565,336,No fuel
+2012-01-01,Austin,330838,4711,Total
+2012-01-01,Austin,157508,4621,Utility Gas
+2012-01-01,Austin,4628,1083,Bottled/tank/LP Gas
+2012-01-01,Austin,166829,4982,Electricity
+2012-01-01,Austin,471,546,Fuel oil/kerosene/etc.
+2012-01-01,Austin,0,206,Coke/Coal
+2012-01-01,Austin,528,508,Wood
+2012-01-01,Austin,156,154,Solar
+2012-01-01,Austin,125,150,Other fuel
+2012-01-01,Austin,593,335,No fuel
+2013-01-01,Austin,349200,5054,Total
+2013-01-01,Austin,165715,5262,Utility Gas
+2013-01-01,Austin,4603,1149,Bottled/tank/LP Gas
+2013-01-01,Austin,176395,6270,Electricity
+2013-01-01,Austin,254,283,Fuel oil/kerosene/etc.
+2013-01-01,Austin,29,50,Coke/Coal
+2013-01-01,Austin,236,202,Wood
+2013-01-01,Austin,141,123,Solar
+2013-01-01,Austin,184,178,Other fuel
+2013-01-01,Austin,1643,677,No fuel
+2014-01-01,Austin,360996,4783,Total
+2014-01-01,Austin,175721,4779,Utility Gas
+2014-01-01,Austin,4494,943,Bottled/tank/LP Gas
+2014-01-01,Austin,178587,5344,Electricity
+2014-01-01,Austin,456,427,Fuel oil/kerosene/etc.
+2014-01-01,Austin,0,211,Coke/Coal
+2014-01-01,Austin,283,223,Wood
+2014-01-01,Austin,86,101,Solar
+2014-01-01,Austin,222,215,Other fuel
+2014-01-01,Austin,1147,412,No fuel
+2015-01-01,Austin,364893,4984,Total
+2015-01-01,Austin,162552,5840,Utility Gas
+2015-01-01,Austin,5138,1200,Bottled/tank/LP Gas
+2015-01-01,Austin,195025,5296,Electricity
+2015-01-01,Austin,154,165,Fuel oil/kerosene/etc.
+2015-01-01,Austin,76,125,Coke/Coal
+2015-01-01,Austin,330,240,Wood
+2015-01-01,Austin,376,270,Solar
+2015-01-01,Austin,114,114,Other fuel
+2015-01-01,Austin,1128,452,No fuel
+2016-01-01,Austin,372327,5397,Total
+2016-01-01,Austin,152943,4713,Utility Gas
+2016-01-01,Austin,5032,1126,Bottled/tank/LP Gas
+2016-01-01,Austin,210960,5943,Electricity
+2016-01-01,Austin,184,142,Fuel oil/kerosene/etc.
+2016-01-01,Austin,370,435,Coke/Coal
+2016-01-01,Austin,320,247,Wood
+2016-01-01,Austin,858,616,Solar
+2016-01-01,Austin,152,133,Other fuel
+2016-01-01,Austin,1508,548,No fuel
+2017-01-01,Austin,376509,6217,Total
+2017-01-01,Austin,155284,5376,Utility Gas
+2017-01-01,Austin,6056,1490,Bottled/tank/LP Gas
+2017-01-01,Austin,212068,6769,Electricity
+2017-01-01,Austin,490,427,Fuel oil/kerosene/etc.
+2017-01-01,Austin,112,132,Coke/Coal
+2017-01-01,Austin,239,246,Wood
+2017-01-01,Austin,419,289,Solar
+2017-01-01,Austin,731,518,Other fuel
+2017-01-01,Austin,1110,553,No fuel
+2018-01-01,Austin,390395,6082,Total
+2018-01-01,Austin,167564,5977,Utility Gas
+2018-01-01,Austin,5516,1333,Bottled/tank/LP Gas
+2018-01-01,Austin,214123,6162,Electricity
+2018-01-01,Austin,220,274,Fuel oil/kerosene/etc.
+2018-01-01,Austin,91,150,Coke/Coal
+2018-01-01,Austin,447,383,Wood
+2018-01-01,Austin,444,297,Solar
+2018-01-01,Austin,400,298,Other fuel
+2018-01-01,Austin,1590,618,No fuel
+2019-01-01,Austin,409903,5829,Total
+2019-01-01,Austin,181445,5993,Utility Gas
+2019-01-01,Austin,5627,1458,Bottled/tank/LP Gas
+2019-01-01,Austin,218888,7286,Electricity
+2019-01-01,Austin,315,348,Fuel oil/kerosene/etc.
+2019-01-01,Austin,243,372,Coke/Coal
+2019-01-01,Austin,145,179,Wood
+2019-01-01,Austin,836,399,Solar
+2019-01-01,Austin,246,256,Other fuel
+2019-01-01,Austin,2158,825,No fuel
